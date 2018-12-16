@@ -1508,7 +1508,7 @@ msgstr "Y轴的边界。当空时，边界是根据数据的最小/最大值动�
 
 #: superset/assets/src/explore/controls.jsx:224
 msgid "Ordering"
-msgstr "订购"
+msgstr "排序"
 
 #: superset/assets/src/explore/controls.jsx:232
 msgid "Fixed Color"
